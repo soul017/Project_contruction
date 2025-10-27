@@ -28,7 +28,7 @@ import UserBackupPage from "./Pages/Superadmin/Backup";
 import TrainingSupportPage from "./Pages/Superadmin/TrainingSupport";
 
 // Subcontractor Imports
-import MainLayout from "./layout/MainLayout"; // Assuming 'layout' folder is correct
+import MainLayout from "./Layout/MainLayout"; // Assuming 'layout' folder is correct
 import SubDashboard from "./Pages/SubcontractorDashboard";
 import Projects from "./Pages/Projects";
 import Material from "./Pages/Material";
