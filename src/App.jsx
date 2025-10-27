@@ -46,7 +46,7 @@ import Invoices from "./Pages/supplierdashboard/Invoices";
 import Document from "./Pages/supplierdashboard/Documents";
 import Notification from "./Pages/supplierdashboard/Notification";
 import Supreports from "./Pages/supplierdashboard/supreports";
-import Profile from "./Pages/supplierdashboard/Profile";
+import Profile from "./Pages/supplierdashboard/profile";
 import Supdashboard from "./Pages/supplierdashboard/supdashboard";
 
 // PMC Imports
