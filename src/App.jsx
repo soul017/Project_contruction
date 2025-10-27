@@ -1,7 +1,7 @@
 import { Routes, Route, Navigate, Outlet } from "react-router-dom";
 
 // Admin Imports
-import ContractManagementPage from './Pages/Admin/ContractManagementPage';
+import ContractManagementPage from './pages/Admin/ContractManagementPage';
 import AdminLayout from "./pages/Admin/AdminLayout";
 import ClientsPage from "./pages/Admin/Client";
 import SuppliersPage from "./pages/Admin/Supplier";
