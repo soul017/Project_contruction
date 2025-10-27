@@ -1,6 +1,6 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
-import PMCSidebar from "./PmcSidebar";
+import PMCSidebar from "./pmcSidebar";
 import PMCNavbar from "./PMCNavbar";
 
 const PMCLayout = () => {
